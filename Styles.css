@@ -1,0 +1,11 @@
+.namestyle {
+    color:#b8860b;
+    font-size: 35px;
+    position: absolute;
+    top: 395px;
+    right: 1000px;    
+}
+.removeheader {
+    position: absolute;
+    top: -2050px;
+}
